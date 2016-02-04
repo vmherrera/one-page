@@ -88,6 +88,10 @@ p {
   background-color: #2ecc71;
 }
 
+.available:hover {
+  background-color: #1c7d45;
+}
+
 .unavailable {
   color: #999;
   background-color: #eee;
