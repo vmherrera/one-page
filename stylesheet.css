@@ -19,14 +19,14 @@ body {
   position: absolute;
   top:50%;
   left:50%;
-  width:400px;  
-  margin: -220px 0 0 -200px;  
+  width:400px;
+  margin: -220px 0 0 -200px;
   text-align: center;
 }
 
 
 /* Makes image a circle and sizes it to 40% of the outside container */
-.container img { 
+.container img {
   max-width: 40%;
   border-radius: 50%;
 }
@@ -37,7 +37,7 @@ li {
   display: inline;
   list-style: none;
   padding: 0 4px;
-  font-family: 'Pacifico', monospace;
+  font-family: 'Quicksand', monospace;
 }
 
 
@@ -92,10 +92,3 @@ p {
   color: #999;
   background-color: #eee;
 }
-
-
-
-
-
-
-
