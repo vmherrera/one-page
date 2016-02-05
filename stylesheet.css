@@ -36,7 +36,7 @@ body {
 li {
   display: inline;
   list-style: none;
-  padding: 0 4px;
+  padding: 0 10px;
   font-family: 'Quicksand', monospace;
 }
 
@@ -60,7 +60,7 @@ h1, h2 {
 
 h1 {
   font-size: 32px;
-  margin: 10px 0 0
+  margin: 10px 0 0;
 }
 
 h2 {
@@ -89,7 +89,7 @@ p {
 }
 
 .available:hover {
-  background-color: #1c7d45;
+  background-color: #26a65d;
 }
 
 .unavailable {
